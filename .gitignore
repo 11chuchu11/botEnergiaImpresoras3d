@@ -1,0 +1,5 @@
+#excluyo los archivos de entorno virtual
+venv/
+
+#excluyo variables de entorno
+*.env
